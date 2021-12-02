@@ -1,0 +1,44 @@
+.imagem-carrossel-um{
+	object-fit: cover;
+	height: 600px;
+	object-position: 0 25%;
+}
+
+.titulocarrossel{
+	font-family: 'Pacifico', cursive;
+	font-size:150px;
+	color:#FFE4C4;
+	text-align:center;
+
+}
+
+.titulo-um{
+
+	font-family: 'Finger Paint', cursive;
+	font-size: 60px;
+	color:#FF8C00;
+}
+
+.titulo-dois{
+	font-family: 'Finger Paint', cursive;
+	font-size: 35px;
+	color:#FFA500;
+}
+
+.imagem-card{
+	object-fit: cover;
+	height: 200px;
+
+}
+
+#botao-card{
+	background-color:#FF8C00;
+	font-size: 20px;
+	font-family: 'Pacifico', cursive;
+	color: white;
+}
+
+#borda-card{
+	border-color:#FF8C00;
+}
+
